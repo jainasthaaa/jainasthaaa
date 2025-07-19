@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jainasthaaa
-- 👀 I’m interested in becoming data scientist 
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on projects of DS
+- 👀 I’m a tech enthusiastic(data+web)
+- 🌱 I'm holding skills in Data science and web development.
+- 💞️ I’m looking to collaborate on projects of DS & web(python)
 - 📫 How to reach me by gmail(asthajain1103@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: fun fact is "I'm doing btech"
